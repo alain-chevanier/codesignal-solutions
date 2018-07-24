@@ -1,8 +1,8 @@
-[Original problem here](https://app.codesignal.com/challenge/JGNL3YRDqC7By3fbu)
+# [reverse_t9](https://app.codesignal.com/challenge/JGNL3YRDqC7By3fbu)
+
+## Check the full description and test cases visiting link above
 
 Consider that the English alphabet contains 26 characters, while telephones only have ten digits on the keypad. The letters are mapped onto the digits as shown below:
-
-
 
 When you press a digit, the corresponding letter appears on the screen. If you keep pressing the button without pauses, the letters mapped onto the button change in sequence. Let's assume that no button is pressed repeatedly more times than there are letters mapped onto it.
 
