@@ -15,13 +15,13 @@ For ```n = 10```, the output should be
 
 __Input/Output__
 
-* [execution time limit] 0.5 seconds (cpp)
+* __[execution time limit] 0.5 seconds (cpp)__
 
 * __[input]__ integer ```n```
 
-  Constraints: ```1 <= n <= 2 ^ 109.```
+    Constraints: ```1 <= n <= 2 ^ 109.```
 
  * __[output]__ integer
  
-  Indicator of ```n```.
+    Indicator of ```n```.
 
