@@ -1,4 +1,6 @@
-# [luckyTIcket](https://app.codesignal.com/challenge/xPhjzzTmbW8JXrSfB)
+# [luckyTicket](https://app.codesignal.com/challenge/xPhjzzTmbW8JXrSfB)
+
+## Check the full description and test cases visiting link above
 
 Mr. Privalov often travels to the city by train, so he came up with a concept of lucky tickets for railways. All railways tickets consist of lowercase English letters. A ticket is called lucky, if it can be split into two non-empty parts, such that the number of occurrences of each letter in the first part is equal to number of occurrences of the same letter in the second part and vice versa (the number of occurrences of each letter in the second part is equal to number of occurrences of the same letter in the first part).
 
