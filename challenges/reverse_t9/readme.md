@@ -18,14 +18,16 @@ __Example__
 
 __Input/Output__
 
-* [execution time limit] 0.5 seconds (cpp)
+* __[execution time limit] 0.5 seconds (cpp)__
 
-* __[input]__ *string keys*
+* __[input] string keys__
 
     Sequence of key presses, a string of digits (all but ```'1'```) and whitespace characters, where a whitespace character means a pause. It is guaranteed that there are no two consecutive ```'0'```s or ```' '```s in the string.
 
-    Constraints: ```1 <= keys.length <= 1500```.
+    *Constraints:* 
+    
+    ```1 <= keys.length <= 1500```.
 
-* __[output]__ *string*
+* __[output] string__
 
     The text as a string of lowercase English letters.
