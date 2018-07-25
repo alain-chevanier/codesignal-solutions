@@ -10,13 +10,13 @@ Find the maximum number of rounds the three brothers can drink.
 
 ### Example
 
-For ```glasses = [1, 1, 2, 3, 3, 3, 2, 2, 1, 1]```, the output should be ```brothersInTheBar(glasses) = 3```.
+* For ```glasses = [1, 1, 2, 3, 3, 3, 2, 2, 1, 1]```, the output should be ```brothersInTheBar(glasses) = 3```.
 
-The brothers can start with a round of size ```3```, then after the glasses are cleared, a round of size ```2``` can be formed, followed by a round of size ```1```. One glass will be left at the table.
+  The brothers can start with a round of size ```3```, then after the glasses are cleared, a round of size ```2``` can be formed, followed by a round of size ```1```. One glass will be left at the table.
 
-For ```glasses = [1, 1, 2, 1, 2, 2, 1, 1]```, the output should be ```brothersInTheBar(glasses) = 0```.
+* For ```glasses = [1, 1, 2, 1, 2, 2, 1, 1]```, the output should be ```brothersInTheBar(glasses) = 0```.
 
-There are no 3 consecutive glasses of the same size.
+  There are no 3 consecutive glasses of the same size.
 
 ### Input/Output
 
