@@ -8,8 +8,7 @@ Given ```n```, calculate its indicator.
 
 __Example__
 
-For ```n = 10```, the output should be
-```Indicator(n) = 5```.
+For ```n = 10```, the output should be ```Indicator(n) = 5```.
 
 ```5! = 120```, which is divisible by ```10```.
 
